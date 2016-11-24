@@ -1,0 +1,15 @@
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\bin\Debug\AplicacionGeneradorContratos.exe.config
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\bin\Debug\AplicacionGeneradorContratos.exe.manifest
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\bin\Debug\AplicacionGeneradorContratos.application
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\bin\Debug\AplicacionGeneradorContratos.exe
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\bin\Debug\AplicacionGeneradorContratos.pdb
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\obj\Debug\AplicacionGeneradorContratos.csproj.ResolveComReference.cache
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\obj\Debug\AplicacionGeneradorContratos.Form1.resources
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\obj\Debug\AplicacionGeneradorContratos.PleaseWaitForm.resources
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\obj\Debug\AplicacionGeneradorContratos.Properties.Resources.resources
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\obj\Debug\AplicacionGeneradorContratos.csproj.GenerateResource.Cache
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\obj\Debug\AplicacionGeneradorContratos.TrustInfo.xml
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\obj\Debug\AplicacionGeneradorContratos.exe.manifest
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\obj\Debug\AplicacionGeneradorContratos.application
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\obj\Debug\AplicacionGeneradorContratos.exe
+C:\Users\crojas\documents\visual studio 2015\Projects\GeneradorContratos\AplicacionGeneradorContratos\obj\Debug\AplicacionGeneradorContratos.pdb
